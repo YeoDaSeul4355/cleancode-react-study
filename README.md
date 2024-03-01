@@ -8,3 +8,9 @@
 
 ## 🪄 목차
 - [state](https://github.com/YeoDaSeul4355/cleancode-react-study/blob/main/src/state/state.md)
+
+
+
+
+👇 이 스터디는 아래의 강의를 보고 정리하였습니다.<br />
+<a href="https://www.udemy.com/course/clean-code-react/?couponCode=KEEPLEARNING" target=_blank>https://www.udemy.com/course/clean-code-react/?couponCode=KEEPLEARNING</a>
