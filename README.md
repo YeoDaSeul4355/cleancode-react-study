@@ -8,6 +8,7 @@
 
 ## 🪄 목차
 - [state](https://github.com/YeoDaSeul4355/cleancode-react-study/blob/main/src/state/state.md)
+- [props](https://github.com/YeoDaSeul4355/cleancode-react-study/blob/main/src/props/props.md)
 
 
 
