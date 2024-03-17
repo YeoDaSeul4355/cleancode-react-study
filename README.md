@@ -7,8 +7,9 @@
 - 안티 패턴들을 숙지하고 실수를 예방하기 위해!
 
 ## 🪄 목차
-- [state](https://github.com/YeoDaSeul4355/cleancode-react-study/blob/main/src/state/state.md)
-- [props](https://github.com/YeoDaSeul4355/cleancode-react-study/blob/main/src/props/props.md)
+- [state](https://github.com/YeoDaSeul4355/cleancode-react-study/blob/main/src/state/README.md)
+- [props](https://github.com/YeoDaSeul4355/cleancode-react-study/blob/main/src/props/README.md)
+- [component](https://github.com/YeoDaSeul4355/cleancode-react-study/blob/main/src/component/README.md)
 
 
 
